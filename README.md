@@ -1,8 +1,8 @@
 # Control-X
 ## Description / Descripción
 
--This RC controller allows for a wide range of variability and functionality when it comes to controlling robots or remotely operated devices. It is focused on controlling robots that physically interact at a distance, featuring two OLED displays for telemetry data and statistics visualization, as well as potentiometers, levers, push buttons, and joysticks, totaling 16 interactive channels and countless digitally programmable channels for data transfer.
--Este control RC permite tener una amplia variablidad y funcionamiento cuando se trata de controlar robots o dispositivos teledirigidos, esta enfocado en controlar robot que interactuen fisicamente a distancia, contando con pantallas oled (2) para visualización de datos telemétricos y estadísticas, potenciometros, palancas, pulsadores y joysticks, lo que suma un total de 16 canales interactivos e innumerables canales programables digitalmente para transferencia de datos.
+- This RC controller allows for a wide range of variability and functionality when it comes to controlling robots or remotely operated devices. It is focused on controlling robots that physically interact at a distance, featuring two OLED displays for telemetry data and statistics visualization, as well as potentiometers, levers, push buttons, and joysticks, totaling 16 interactive channels and countless digitally programmable channels for data transfer.
+- Este control RC permite tener una amplia variablidad y funcionamiento cuando se trata de controlar robots o dispositivos teledirigidos, esta enfocado en controlar robot que interactuen fisicamente a distancia, contando con pantallas oled (2) para visualización de datos telemétricos y estadísticas, potenciometros, palancas, pulsadores y joysticks, lo que suma un total de 16 canales interactivos e innumerables canales programables digitalmente para transferencia de datos.
 
 ## Images / Imágenes
 ![Control1](images/control1.jpg)
